@@ -18,12 +18,13 @@ source(here::here("R/01_census_five_cities", "00_utils.R"))
 # Carregar dados ----------------------------------------------------------
 
 ### Na primeira vez, fazer download dos dados usando o pacote geobr
-# areas_ponderacao_sf <- geobr::read_weighting_area(simplified = FALSE)
-# st_write(areas_ponderacao_sf, here::here("data", "areas_ponderacao_br.gpkg"))
-
-### Nas próximas vezes, carregar os dados salvos anteriormente
-areas_ponderacao_sf <- st_read(here::here("data", "areas_ponderacao_br.gpkg"))
-
+if (!file.exists(here::here("data", "areas_ponderacao_br.gpkg"))) {
+  areas_ponderacao_sf <- geobr::read_weighting_area(simplified = FALSE)
+  st_write(areas_ponderacao_sf, here::here("data", "areas_ponderacao_br.gpkg"))
+} else {
+  ### Nas próximas vezes, carregar os dados salvos anteriormente
+  areas_ponderacao_sf <- st_read(here::here("data", "areas_ponderacao_br.gpkg"))
+}
 
 # Helper Functions --------------------------------------------------------
 plot_city_map <- function(city, filename, w_areas, width, height) {
