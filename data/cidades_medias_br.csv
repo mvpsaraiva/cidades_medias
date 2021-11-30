@@ -1,0 +1,222 @@
+NOME,COD_MUN,UF,PONTOS 
+Sorocaba,3552205,SP,24
+Juiz de Fora,3136702,MG,24
+Uberaba,3170107,MG,24
+Bauru,3506003,SP,23
+Londrina,4113700,PR,23
+Araraquara,3503208,SP,23
+Araçatuba,3502804,SP,23
+Montes Claros,3143302,MG,23
+Santos,3548500,SP,22
+Maringá,4115200,PR,22
+Joinville,4209102,SC,22
+Governador Valadares,3127701,MG,22
+Marília,3529005,SP,22
+Presidente Prudente,3541406,SP,22
+São José do Rio Preto,3549805,SP,22
+Foz do Iguaçu,4108304,PR,21
+Campos Goytacazes,3301009,RJ,21
+Macaé ,3302403,RJ,21
+Franca,3516200,SP,21
+Cascavel,4104808,PR,21
+Petrolina ,2611101,PE,20
+Jundiaí,3525904,SP,20
+Volta Redonda,3306305,RJ,20
+Campina Grande ,2504009,PB,20
+Poços de Caldas,3151800,MG,20
+Piracicaba,3538709,SP,20
+Ipatinga,3131307,MG,19
+Itajaí,4208203,SC,19
+Criciúma,4204608,SC,19
+São Carlos,3548906,SP,19
+Taubaté,3554102,SP,19
+Limeira ,3526902,SP,19
+Rio Claro,3543907,SP,19
+Catanduva,3511102,SP,19
+Passo Fundo,4314100,RS,19
+Juazeiro do Norte,2307304,CE,18
+Rio Grande,4315602,RS,18
+Ilhéus,2913606,BA,18
+Vitória da Conquista,2933307,BA,18
+Araxá,3104007,MG,18
+Patos de Minas,3148004,MG,18
+Varginha,3170701,MG,18
+Petrópolis,3303906,RJ,18
+Jaú,3525300,SP,18
+Santa Maria,4316907,RS,18
+Jacareí,3524402,SP,17
+Pelotas,4314407,RS,17
+Itabuna,2914802,BA,17
+Caruaru ,2604106,PE,17
+Feira de Santana,2910800,BA,17
+Paulo Afonso,2924009,BA,17
+Divinópolis,3122306,MG,17
+Cachoeiro de Itapemirim,3201209,ES,17
+Cabo Frio,3300704,RJ,17
+Botucatu,3507506,SP,17
+Bragança Paulista,3507605,SP,17
+Matão,3529302,SP,17
+Moji Guaçu,3530706,SP,17
+Ponta Grossa,4119905,PR,17
+Chapecó,4204202,SC,17
+Lages,4209300,SC,17
+Dourados,5003702,MS,17
+Blumenau,4202404,SC,16
+Barra Mansa,3300407,RJ,16
+Pindamonhangaba,3538006,SP,16
+Araras,3503307,SP,16
+Leme,3526704,SP,16
+João Monlevade,3136207,MG,16
+Nova Friburgo,3303401,RJ,16
+Barretos,3505500,SP,16
+Bebedouro,3506102,SP,16
+Itapetininga,3522307,SP,16
+Jaboticabal ,3524303,SP,16
+Paranaguá ,4118204,PR,16
+Anápolis,5201108,GO,16
+Parauapébas,1505536,PA,15
+Santarém,1506807,PA,15
+Araguaína,1702109,TO,15
+Imperatriz,2105302,MA,15
+Barreiras,2903201,BA,15
+Alfenas,3101607,MG,15
+Barbacena,3105608,MG,15
+Itabira,3131703,MG,15
+Lavras,3138203,MG,15
+Passos,3147907,MG,15
+Pouso Alegre,3152501,MG,15
+Assis,3504008,SP,15
+Avaré,3504503,SP,15
+Birigui,3506508,SP,15
+Caçapava,3508504,SP,15
+Cruzeiro,3513405,SP,15
+Guaratinguetá,3518404,SP,15
+Itapira,3522604,SP,15
+Lençóis Paulista,3526803,SP,15
+Lins,3527108,SP,15
+Lorena,3527207,SP,15
+Moji-Mirim,3530805,SP,15
+Ourinhos,3534708,SP,15
+Pirassununga,3539301,SP,15
+São João da Boa Vista,3549102,SP,15
+Guarapuava,4109401,PR,15
+Uruguaiana,4322400,RS,15
+Rondonópolis,5107602,MT,15
+Marabá,1504208,PA,14
+Tucuruí ,1508100,PA,14
+Sobral,2312908,CE,14
+Mossoró,2408003,RN,14
+Guanambi,2911709,BA,14
+Jequié,2918001,BA,14
+Porto Seguro,2925303,BA,14
+Valença,2932903,BA,14
+Itajubá,3132404,MG,14
+Ituiutaba,3134202,MG,14
+Patrocínio,3148103,MG,14
+Teófilo Otoni,3168606,MG,14
+Três Corações,3169307,MG,14
+Aracruz,3200607,ES,14
+Itaperuna ,3302205,RJ,14
+Três Rios,3306008,RJ,14
+Andradina,3502101,SP,14
+Itapeva,3133600,MG,14
+Mococa,3530508,SP,14
+Penápolis ,3537305,SP,14
+Tatuí ,3554003,SP,14
+Tupã,3555000,SP,14
+Votuporanga,3557105,SP,14
+Bento Gonçalves,4302105,RS,14
+Erechim,4307005,RS,14
+Santo Ângelo,4317509,RS,14
+Corumbá,5003207,MS,14
+Itumbiara,5211503,GO,14
+Jataí,5211909,GO,14
+Rio Verde,5218805,GO,14
+Altamira,1500602,PA,13
+Patos,2510808,PB,13
+Arcoverde,2601201,PE,13
+Santa Cruz do Capibaribe,2612505,PE,13
+Vitória de Santo Antão,2616407,PE,13
+Alagoinhas,2900702,BA,13
+Itapetininga,3522307,SP,13
+Juazeiro,2918407,BA,13
+Araguari,3103504,MG,13
+Cataguases,3115300,MG,13
+Conselheiro Lafaiete,3118304,MG,13
+Coronel Fabriciano,3119401,MG,13
+Formiga,3126109,MG,13
+Muriaé,3143906,MG,13
+Ouro Preto,3146107,MG,13
+São João Del Rei,3162500,MG,13
+São Sebastião do Paraíso,3164704,MG,13
+Ubá,3169901,MG,13
+Viçosa,3171303,MG,13
+Colatina,3201506,ES,13
+Atibaia,3504107,SP,13
+Arapongas,4101507,PR,13
+Toledo,4127700,PR,13
+Santa Cruz do Sul,4316808,RS,13
+Vacaria,4322509,RS,13
+Catalão,5205109,GO,13
+Parintins,1303403,AM,12
+Itaituba,1503606,PA,12
+Açailândia,2100055,MA,12
+Caicó,2402006,RN,12
+Belo Jardim,2601706,PE,12
+Garanhuns,2606002,PE,12
+Gravatá,2606408,PE,12
+Santo Antônio de Jesus,2928703,BA,12
+Caratinga,3113404,MG,12
+Curvelo,3120904,MG,12
+Manhuaçu,3139409,MG,12
+Paracatu,3147006,MG,12
+Linhares,3203205,ES,12
+Apucarana,4101408,PR,12
+Campo Mourão,4104303,PR,12
+Francisco Beltrão,4108403,PR,12
+Paranavaí,4118402,PR,12
+Pato Branco,4118501,PR,12
+Telêmaco Borba,4127106,PR,12
+Tubarão,4218707,SC,12
+Alegrete,4300406,RS,12
+Bagé,4301602,RS,12
+Ijuí,4310207,RS,12
+Santana do Livramento,4317103,RS,12
+Santa Rosa,4317202,RS,12
+São Borja,4318002,RS,12
+Sinop,5107909,MT,12
+Cacoal,1100049,RO,11
+Arapiraca,2700300,AL,11
+Jacobina,2917508,BA,11
+Senhor do Bonfim,2930105,BA,11
+Teixeira de Freitas,2931350,BA,11
+Caçador,4203006,SC,11
+Cachoeira do Sul,4303004,RS,11
+Carazinho,4304705,RS,11
+Cruz Alta,4306106,RS,11
+Lajeado,4311403,RS,11
+Três Lagoas,5008305,MS,11
+Ji-Paraná,1100122,RO,10
+Castanhal,1502400,PA,10
+Paragominas,1505502,PA,10
+Crato,2304202,CE,10
+Eunápolis,2910727,BA,10
+São Gabriel,4318309,RS,10
+Cáceres,5102504,MT,10
+Bacabal ,2101202,MA,9
+Caxias,2103000,MA,9
+Parnaíba,2207702,PI,9
+Picos,2208007,PI,9
+Iguatu,4110052,PR,9
+Estância,2802106,SE,9
+Irecê,2914604,BA,9
+Ponta Porã,5006606,MS,9
+Tangará da Serra,5107958,MT,9
+Arquimedes,1100023,RO,8
+Vilhena,1100304,RO,8
+Redenção,2311603,CE,8
+Gurupi,1709500,TO,8
+Balsas,2101400,MA,8
+Santa Inês ,2109908,MA,8
+Janaúba,3135100,MG,8
+Codó,2103307,MA,7
